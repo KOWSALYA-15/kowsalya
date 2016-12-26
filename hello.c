@@ -7,7 +7,7 @@ void main()
  scanf("%d",&n);
  for(i=0;i<n;i++)
  {
-  printf("\n HELLOW");
+  printf("\n HELLO");
  }
  getch();
 }
