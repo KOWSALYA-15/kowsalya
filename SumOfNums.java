@@ -1,5 +1,3 @@
-package logicPrograms;
-
 import java.util.Scanner;
 
 public class SumOfNums {
